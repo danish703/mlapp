@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "440813892579",
+    "firebase_url": "https://ml-algorithm-starter.firebaseio.com",
+    "project_id": "ml-algorithm-starter",
+    "storage_bucket": "ml-algorithm-starter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440813892579:android:4e7d934f5d9b5b5b8fe6d6",
+        "android_client_info": {
+          "package_name": "np.com.deepndra.machinelearningalgorithm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440813892579-bg96fbgmopdp1mou9raao1mtpefq8nrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGuNTm_CWULmMsFzJrLblwHEQUu02ELn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440813892579-bg96fbgmopdp1mou9raao1mtpefq8nrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
